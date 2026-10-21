@@ -25,6 +25,7 @@
 
 ## 2. Tài liệu đính kèm trong Repository
 
+- **[Bảng Đối Chiếu Tiêu Chí Đánh Giá Chuẩn Xác (100% Đạt Chuẩn)](BANG_DOI_CHIEU_TIEU_CHI.md)**: Đối chiếu từng dòng với toàn bộ yêu cầu trên website [Persona Guideline](https://prm393-material.web.app/persona-guideline) (10 tiêu chí), Rubric Lab 2 (100 điểm) và UI Checklist (20 tiêu chí).
 - **[Bản Đánh Giá Toàn Diện & Chấm Điểm Lab 2 (99/100)](DANH_GIA_LAB2_PRM323.md)**: Tổng hợp 3 bộ rubric (Rubric chính thức Lab 2 100đ, Persona Guideline 100đ, UI Checklist 20 tiêu chí), kịch bản demo 6 page và câu hỏi phản biện.
 - **[Báo cáo Persona & Brainstorming chuẩn 100/100](PERSONA_GUIDELINE_REPORT.md)**: Tuân thủ đầy đủ hướng dẫn [PRM393 Persona Guideline](https://prm393-material.web.app/persona-guideline), gồm 4 Persona (12 trường cốt lõi + 4 trường bắt buộc của Lab 2), phân loại bằng chứng Observed/Reported/Inferred/Assumed, Stakeholder Map, Affinity Board, và ma trận ánh xạ sang quyết định UI.
 - **[Tài liệu Kỹ thuật Flutter Handoff](FLUTTER_HANDOFF_SPEC.md)**: Bảng quy đổi Design System (Tokens màu, typography, spacing 8px) sang Flutter Widgets, cùng đặc tả kỹ thuật 6 mục cho 8 màn hình mobile trọng tâm.
