@@ -16,8 +16,8 @@
 | **Cuộc trò chuyện minh chứng — Thiết kế UI & Flutter** | [AI UI Chat Evidence](AI_UI_CHAT_EVIDENCE.md) | Các phiên đối thoại Pair Programming thực tế về Redesign Settings/Profile, Offline Mode, Nutrition |
 | **Figma Design chính thức (6 Page)** | [Figma LAB02_CareSystem](https://www.figma.com/design/Ph22SZvtVFwWzohuaia1UC/LAB02_CareSystem?node-id=0-1&t=y8TBlIsxnOdSbWSD-1) | Đầy đủ 6 trang theo rubric: `01 User Flow`, `02 Wireframe`, `03 Final UI`, `04 Design System`, `05 Components`, `06 Prototype` |
 | **Figma Make (Image Retrieval Source)** | [Figma Make — Mobile app image retrieval](https://www.figma.com/make/zYbuvraAFDQoVb6wEXhpnH/Mobile-app-image-retrieval?t=HrAK44qDKK2rzSvZ-1) | Kho asset gốc, bóc tách frame và minh họa giao diện |
-| **Canva Slide Presentation (12 Slides)** | [Canva 12 Slides Trình bày Lab 2](https://canva.link/55qt0sv9dsz7w3g) | Bộ 12 slide thuyết trình bảo vệ 10 phút trước hội đồng |
-| **Tài liệu Google Docs tổng hợp** | [Google Docs — Hồ sơ rà soát](https://docs.google.com/document/d/1fBMiqKdpAtMjy8XKDpX7-WQMsufw5_SPwp1s8oMFH_8/edit?usp=sharing) | Bản tổng hợp Persona, rà soát đối chiếu và checklist |
+| **Canva Slide Presentation (19 Slides)** | [Canva 19 Slides Trình bày Lab 2](https://canva.link/55qt0sv9dsz7w3g) | Bộ 19 slide thuyết trình từ Google Docs (12 slide thuyết trình chính + 7 slide phụ lục chuyên sâu) |
+| **Tài liệu Google Docs tổng hợp** | [Google Docs — Hồ sơ rà soát](https://docs.google.com/document/d/1fBMiqKdpAtMjy8XKDpX7-WQMsufw5_SPwp1s8oMFH_8/edit?usp=sharing) | Bản tổng hợp Persona, link Canva 19 slide, rà soát đối chiếu và checklist |
 | **Google Stitch Project** | [Stitch LAB2 - CareSitter](https://stitch.withgoogle.com/projects/16914427060621528532) | Dự án thiết kế UI nguồn trên Google Stitch |
 | **Mã nguồn dự án CareSitter** | [GitHub CareSitter](https://github.com/ThwnThwn/CareSitter) | Toàn bộ mã nguồn backend, frontend Flutter Customer App và tài liệu kiến trúc |
 
@@ -83,19 +83,19 @@ Căn cứ theo văn bản hướng dẫn [PRM323_Lab2_HuongDan_Slide_Presentatio
 
 ---
 
-## 5. BẢNG ĐỐI CHIẾU 6 TRANG FIGMA & 12 SLIDE THUYẾT TRÌNH
+## 5. BẢNG ĐỐI CHIẾU 6 TRANG FIGMA VỚI BỘ 19 SLIDE THUYẾT TRÌNH CANVA (TỪ GOOGLE DOCS)
 
-| Page Figma | Tiêu đề trang | Trạng thái kiểm tra | Slide tương ứng |
+| Trang Figma | Tên trang Figma | Nội dung & Chức năng | Slide Canva tương ứng (trong bộ 19 slide) |
 | :---: | :--- | :--- | :---: |
-| **01** | `01 User Flow` | Đầy đủ Sitemap tổng thể và 3 User Flows có nhánh lỗi/offline | Slide 03, 04 |
-| **02** | `02 Wireframe` | Khung bố cục Low-Fi của 8 màn hình chính | Slide 08 |
-| **03** | `03 Final UI` | 8 màn hình Mobile 390 dp hoàn thiện với màu thương hiệu `#0D6E57` | Slide 08 |
-| **04** | `04 Design System` | Variables/Styles: Color, Typography Be Vietnam Pro, Spacing 8px Grid | Slide 09 |
-| **05** | `05 Components` | 9 nhóm Components có Auto Layout, Padding và Variants | Slide 09, 10 |
-| **06** | `06 Prototype` | Kết nối 3 luồng chạy liên tục, có modal popup, chuyển cảnh mượt mà | Slide 11 |
+| **01** | `01 User Flow` | Sitemap tổng thể và sơ đồ chi tiết 3 User Flows (có nhánh thay thế, lỗi rớt mạng 4G) | Slide 03, 04, 14, 15 |
+| **02** | `02 Wireframe` | Khung xương bố cục Low-Fi của 8 màn hình chính ở hai kích thước 360 dp và 412 dp | Slide 08, 17 |
+| **03** | `03 Final UI` | 8 màn hình Mobile 390 dp hoàn thiện với nhận diện thương hiệu CareSitter | Slide 08 |
+| **04** | `04 Design System` | Bảng Variables/Styles: Tokens màu (`#006B5B`, `#D88C6C`), font Be Vietnam Pro, Grid 8px, phép đo Contrast | Slide 09, 10, 18 |
+| **05** | `05 Components` | 9 nhóm Components có Auto Layout, Padding, Variants và States | Slide 09, 10 |
+| **06** | `06 Prototype` | Kết nối tương tác liền mạch 3 flows, popup modal cam kết phi y tế, back không ngõ cụt | Slide 11 |
 
 ---
 
 > [!NOTE]
 > **KẾT LUẬN NGHIỆM THU:**  
-> Toàn bộ hồ sơ đồ án **CareSitter** đã được đối chiếu toàn diện và **đạt 100% tất cả các tiêu chí** được công bố trên website môn học (`https://prm393-material.web.app/persona-guideline` và tài liệu hướng dẫn Lab 2). Bộ hồ sơ sẵn sàng cho việc chấm điểm và bảo vệ đồ án!
+> Toàn bộ hồ sơ đồ án **CareSitter** đã được đối chiếu toàn diện và **đạt 100% tất cả các tiêu chí** được công bố trên website môn học (`https://prm393-material.web.app/persona-guideline` và tài liệu hướng dẫn Lab 2). Bộ slide 19 trang trên Canva (liên kết từ Google Docs) phản ánh đầy đủ cả phần thuyết trình chính lẫn các phụ lục chuyên sâu về Persona, Wireframe và Contrast!

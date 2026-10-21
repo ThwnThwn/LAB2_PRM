@@ -18,7 +18,7 @@
 | 1 | **Cuộc trò chuyện AI minh chứng (Chat Evidence)** | [ChatGPT Rà soát & Phản biện Lab 2](https://chatgpt.com/s/cx_6ad371cf90308191ab53a511a2212c74) | Toàn bộ prompt, nhật ký rà soát rubric, phản biện Persona và bóc tách tài liệu |
 | 2 | **Figma Design chính thức (6 Page)** | [Figma LAB02_CareSystem](https://www.figma.com/design/Ph22SZvtVFwWzohuaia1UC/LAB02_CareSystem?node-id=0-1&t=y8TBlIsxnOdSbWSD-1) | 6 trang chuẩn rubric: User Flow, Wireframe, Final UI, Design System, Components, Prototype |
 | 3 | **Figma Make (Image Retrieval)** | [Figma Make Mobile App Source](https://www.figma.com/make/zYbuvraAFDQoVb6wEXhpnH/Mobile-app-image-retrieval?t=HrAK44qDKK2rzSvZ-1) | Kho asset đồ họa, bóc tách frame và minh họa giao diện |
-| 4 | **Canva Slide Presentation (12 Slides)** | [Canva 12 Slides Trình bày Lab 2](https://canva.link/55qt0sv9dsz7w3g) | Bộ 12 slide đúng chuẩn thời lượng 10 phút thuyết trình |
+| 4 | **Canva Slide Presentation (19 Slides)** | [Canva 19 Slides Trình bày Lab 2](https://canva.link/55qt0sv9dsz7w3g) | Bộ 19 slide thuyết trình từ Google Docs (12 slide thuyết trình chính + 7 slide phụ lục chuyên sâu) |
 | 5 | **Tài liệu Google Docs tổng hợp** | [Google Docs Hồ sơ rà soát](https://docs.google.com/document/d/1fBMiqKdpAtMjy8XKDpX7-WQMsufw5_SPwp1s8oMFH_8/edit?usp=sharing) | Bảng tổng hợp Persona, rà soát đối chiếu và checklist |
 | 6 | **Google Stitch Project** | [Stitch LAB2 - CareSitter](https://stitch.withgoogle.com/projects/16914427060621528532) | Dự án thiết kế UI gốc với AI prompts & iterations |
 | 7 | **Mã nguồn dự án CareSitter** | [GitHub CareSitter](https://github.com/ThwnThwn/CareSitter) | Toàn bộ mã nguồn backend, frontend Flutter Customer App và handoff specs |
@@ -118,4 +118,4 @@ Khi trình diễn trước hội đồng, người thuyết trình thao tác the
 
 ---
 
-> **Kết luận:** Hồ sơ Lab 2 CareSitter hoàn chỉnh, nhất quán từ Persona $\rightarrow$ AI Stitch $\rightarrow$ Figma 6 Page $\rightarrow$ Canva 12 Slide $\rightarrow$ Flutter Handoff. Đầy đủ minh chứng và tự tin đạt điểm xuất sắc khi bảo vệ đồ án!
+> **Kết luận:** Hồ sơ Lab 2 CareSitter hoàn chỉnh, nhất quán từ Persona $\rightarrow$ AI Stitch $\rightarrow$ Figma 6 Page $\rightarrow$ Canva 19 Slide (từ Google Docs) $\rightarrow$ Flutter Handoff. Đầy đủ minh chứng và tự tin đạt điểm xuất sắc khi bảo vệ đồ án!
