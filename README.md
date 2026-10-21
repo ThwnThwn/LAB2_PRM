@@ -12,7 +12,8 @@
 
 | Hạng mục | Liên kết chính thức | Mục đích & Nội dung minh chứng |
 | :--- | :--- | :--- |
-| **Cuộc trò chuyện minh chứng (Chat Evidence)** | [ChatGPT Rà soát & Phản biện Lab 2](https://chatgpt.com/s/cx_6ad371cf90308191ab53a511a2212c74) | Minh chứng toàn bộ quá trình đối thoại AI, trích xuất đề bài, phản biện Persona và hoàn thiện hồ sơ |
+| **Cuộc trò chuyện minh chứng — Quá trình & Persona** | [ChatGPT Rà soát & Phản biện Lab 2](https://chatgpt.com/s/cx_6ad371cf90308191ab53a511a2212c74) | Minh chứng toàn bộ quá trình đối thoại AI, trích xuất đề bài, phản biện Persona và hoàn thiện hồ sơ |
+| **Cuộc trò chuyện minh chứng — Thiết kế UI & Redesign** | [AI UI Chat Evidence](AI_UI_CHAT_EVIDENCE.md) | Minh chứng các phiên trao đổi AI Pair Programming về Redesign Settings/Profile, Offline Mode và Nutrition Flow |
 | **Figma Design chính thức (6 Page)** | [Figma LAB02_CareSystem](https://www.figma.com/design/Ph22SZvtVFwWzohuaia1UC/LAB02_CareSystem?node-id=0-1&t=y8TBlIsxnOdSbWSD-1) | Đầy đủ 6 trang theo rubric: `01 User Flow`, `02 Wireframe`, `03 Final UI`, `04 Design System`, `05 Components`, `06 Prototype` |
 | **Figma Make (Image Retrieval Source)** | [Figma Make — Mobile app image retrieval](https://www.figma.com/make/zYbuvraAFDQoVb6wEXhpnH/Mobile-app-image-retrieval?t=HrAK44qDKK2rzSvZ-1) | Kho asset gốc, bóc tách frame và minh họa giao diện |
 | **Canva Slide Presentation (12 Slides)** | [Canva 12 Slides Trình bày Lab 2](https://canva.link/55qt0sv9dsz7w3g) | Bộ 12 slide thuyết trình bảo vệ 10 phút trước hội đồng |
@@ -24,8 +25,10 @@
 
 ## 2. Tài liệu đính kèm trong Repository
 
+- **[Bản Đánh Giá Toàn Diện & Chấm Điểm Lab 2 (99/100)](DANH_GIA_LAB2_PRM323.md)**: Tổng hợp 3 bộ rubric (Rubric chính thức Lab 2 100đ, Persona Guideline 100đ, UI Checklist 20 tiêu chí), kịch bản demo 6 page và câu hỏi phản biện.
 - **[Báo cáo Persona & Brainstorming chuẩn 100/100](PERSONA_GUIDELINE_REPORT.md)**: Tuân thủ đầy đủ hướng dẫn [PRM393 Persona Guideline](https://prm393-material.web.app/persona-guideline), gồm 4 Persona (12 trường cốt lõi + 4 trường bắt buộc của Lab 2), phân loại bằng chứng Observed/Reported/Inferred/Assumed, Stakeholder Map, Affinity Board, và ma trận ánh xạ sang quyết định UI.
 - **[Tài liệu Kỹ thuật Flutter Handoff](FLUTTER_HANDOFF_SPEC.md)**: Bảng quy đổi Design System (Tokens màu, typography, spacing 8px) sang Flutter Widgets, cùng đặc tả kỹ thuật 6 mục cho 8 màn hình mobile trọng tâm.
+- **[Nhật Ký Đối Thoại AI Về Thiết Kế UI](AI_UI_CHAT_EVIDENCE.md)**: Ghi lại các phiên trao đổi cụ thể về Redesign Settings/Profile dựa trên Stitch, xử lý lỗi mất mạng ngoại tuyến `C-SHIFT-OFFLINE` và ranh giới dinh dưỡng phi y tế.
 
 ---
 
